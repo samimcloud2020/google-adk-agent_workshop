@@ -1,4 +1,5 @@
 # ADK Workshop 전체 가이드
+## https://medium.com/@shins777/adk-communication-context-management-method-c105cf4add27
 
 이 프로젝트는 Google Agent Development Kit(ADK)와 A2A(Agent-to-Agent) 프로토콜, 다양한 AI/LLM 에이전트 예제, 배포 및 워크플로우, 콜백, 모델 연동 등 실전 환경에서 활용 가능한 모든 구성요소를 포함합니다.
 
